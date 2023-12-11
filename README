@@ -1,0 +1,3 @@
+This project will take an input video/camera input and record whether the shot is a make and predict its trajcetory.
+It will also record attributes of the shot such as: release angle, elbow angle, knee angle, and calculate uncertanties and how much these vary.
+This should be useful to the user, as it will help them track shot statistics and improve their, form and become more consistent at shooting a basketball.
